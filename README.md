@@ -6,8 +6,8 @@ This repository was created as part of a Data Science course at the University o
 # Items in this repository:
 * **Final Project.ipynb**: This notebook contains all the process and code to perform this research
 * **images folder**: This is a file folder of all plots I generated while performing my analysis saved as .png files
-* **sample_library_collection.csv**: Since the full dataset I used was very large (6.1 GB), I have provided a sample of the first 10,000 rows of data. **The data I used for my full analysis was from Sept 2017 to Oct 2018.**
-* **sample_checkouts_by_title.csv** Since the full datast I used was very large (6.8 GB), I have provided a sample of the first 10,000 rows of data. **My full analysis used data from April 2005 to Oct 2018**
+* **sample_library_collection.csv**: Since the full dataset I used was very large (6.1 GB), I have provided a sample of the first 10,000 rows of data. **The data I used for my full analysis was from Sept 2017 to Oct 2018**. For licencing information see ** The Data** section below.
+* **sample_checkouts_by_title.csv** Since the full datast I used was very large (6.8 GB), I have provided a sample of the first 10,000 rows of data. **My full analysis used data from April 2005 to Oct 2018**. For licencing information see ** The Data** section below.
 
 # Introduction
 The Seattle public library has 27 locations (list of locations can be found at https://www.spl.org/hours-and-locations). I would like to investigate the usage of the Seattle Public Library inventory. I am interested in seeing if I can find any insites to the checkout patterns of the inventory and the locations, and if any suggestions can be made to the library about their inventory. 
