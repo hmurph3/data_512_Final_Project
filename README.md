@@ -4,7 +4,7 @@ Repository for Human Centered Design Final Project
 This repository was created as part of a Data Science course at the University of Washington. You can find a link to the course outline at https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018).
 
 # Items in this repository:
-* **Final Project.ipynb**: This notebook contains all the process and code to perform this research
+* **Final Project.ipynb**: This notebook is my final report for this project. It contains all the process steps and code to perform this research. 
 * **images folder**: This is a file folder of all plots I generated while performing my analysis saved as .png files
 * **sample_library_collection.csv**: Since the full dataset I used was very large (6.1 GB), I have provided a sample of the first 10,000 rows of data. **The data I used for my full analysis was from Sept 2017 to Oct 2018**. For licencing information see **The Data** section below.
 * **sample_checkouts_by_title.csv** Since the full datast I used was very large (6.8 GB), I have provided a sample of the first 10,000 rows of data. **My full analysis used data from April 2005 to Oct 2018**. For licencing information see **The Data** section below.
